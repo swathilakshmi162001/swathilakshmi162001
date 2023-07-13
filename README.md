@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SWATHI LAKSHMI M</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swathilakshmi162001&label=Profile%20views&color=0e75b6&style=flat" alt="swathilakshmi162001" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swathilakshmi162001" alt="swathilakshmi162001" /></a> </p>
 
